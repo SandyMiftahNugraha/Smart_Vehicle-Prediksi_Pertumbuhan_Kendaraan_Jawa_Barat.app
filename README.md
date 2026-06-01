@@ -89,11 +89,11 @@ Tahapan yang dilakukan meliputi:
 
 ## 👨‍🎓 Informasi Pengembang
 
-**Nama:** Nugraha Sandy
+**Nama:** Sandy Miftah Nugraha
 
-**Program Studi:** Teknik Informatika
+**Program Studi:** Sistem Informasi Kota Cerdas
 
-**Mata Kuliah:** Machine Learning / Smart City
+**Mata Kuliah:** Machine Learning
 
 ## 📄 Lisensi
 
